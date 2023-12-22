@@ -1,0 +1,39 @@
+/* p {
+  direction: rtl;
+	unicode-bidi: bidi-override;
+} */
+
+/* p {
+  border: 1px solid;
+  text-align: center;
+} */
+
+/* a {
+  border: 1px solid;
+  text-align: center;
+} */
+
+/* p {
+  text-decoration: overline;
+} */
+
+/* p {
+  text-transform: capitalize;
+} */
+
+/* p {
+  letter-spacing: 0.2px;
+} */
+
+/* p {
+	white-space: nowrap;
+} */
+
+/* p {
+  text-indent: 150px;
+  text-align: justify;
+} */
+
+/* p {
+  text-shadow: 0px 0px 5px blue;
+} */

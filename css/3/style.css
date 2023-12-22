@@ -1,0 +1,23 @@
+/* 1. Nom => name */
+
+/* 2. Hex code  */
+/* 10 => a */
+/* 11 => b  */
+/* 12 => с  */
+/* 13 => d  */
+/* 14 => e  */
+/* 15 => f  */
+
+/* 3. RGB => Red + Green + Blue */
+/* 0 - 255 */
+
+/* 4. RGBA => Red + Greem + Blue + alpha */
+/* alpha => 0 - 1 */
+/* h1 {
+  background-color: rgba(0, 0, 0, 0.1);
+} */
+
+/* 5. HSL => Hue(0-360) + Saturation(0-100) + Lightness(0-100)*/
+/* h1 {
+	color: hsl(90, 90, 70);
+} */

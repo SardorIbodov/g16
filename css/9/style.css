@@ -1,0 +1,17 @@
+/* p {
+  border: 5px solid;
+  outline-style: solid;
+  outline-width: 5px;
+  outline-color: red;
+  outline-offset: 5px;
+}
+
+button {
+  border: none;
+  outline: none;
+}
+
+input:hover {
+  outline: none;
+  border: none;
+} */
